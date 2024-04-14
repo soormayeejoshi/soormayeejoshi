@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soormayeejoshi
-- 👀 I’m interested in c/c++
+- 👀 I’m interested in c/c++/web dev/python
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on anything and everything cool
 - 📫 How to reach me- through my github profile
